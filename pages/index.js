@@ -19,7 +19,7 @@ import Section from '../components/section'
 import { GridItem } from '../components/grid-item'
 import { IoLogoTwitter, IoLogoInstagram, IoLogoGithub, IoLogoBehance } from 'react-icons/io5'
 import thumbYouTube from '../public/images/links/youtube2.jpg'
-import thumbChannel from '../public/images/works/loja.jpg'
+import thumbChannel from '../public/images/works/age.jpg'
 import Image from 'next/image'
 
 const ProfileImage = chakra(Image, {
@@ -37,7 +37,7 @@ const Home = () => (
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
         css={{ backdropFilter: 'blur(10px)' }}
       >
-        Hello, I&apos;m a Video Editor based in Jakarta!
+        Hello, I&apos;m a Web Developer based in Jakarta!
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -45,7 +45,7 @@ const Home = () => (
           <Heading as="h2" variant="page-title">
             Abraham Dier Spiez
           </Heading>
-          <p>Digital Creator ( Video Editor / Frontend Developer / Designer )</p>
+          <p>Digital Creator ( Video Editor / Web Developer / Designer )</p>
         </Box>
         <Box
           flexShrink={0}
@@ -162,7 +162,7 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://instagram.com/abraham_spr" target="_blank">
+            <Link href="https://www.behance.net/abrahamsiregar1" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
