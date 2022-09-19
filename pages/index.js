@@ -79,7 +79,7 @@ const Home = () => (
           Work
         </Heading>
         <Paragraph>
-        Abraham is a final year student at Gunadarma university in Jakarta.
+        Abraham is a fresh graduate from Gunadarma university in Jakarta.
         Who are interested in the world of software development, video editing,
         and teaching software materials.
         </Paragraph>
@@ -110,7 +110,7 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2022</BioYear>
-          Soon get Bachelor Degree of computer science from Gunadarma University :)
+          Bachelor Degree of computer science from Gunadarma University :)
         </BioSection>
       </Section>
 
