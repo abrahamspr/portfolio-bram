@@ -45,7 +45,7 @@ const Home = () => (
           <Heading as="h2" variant="page-title">
             Abraham Dier Spiez
           </Heading>
-          <p>Digital Creator ( Video Editor / Web Developer / Designer )</p>
+          <p>Digital Creator ( Video Editor / Web Developer / Graphic Designer )</p>
         </Box>
         <Box
           flexShrink={0}
@@ -64,7 +64,7 @@ const Home = () => (
             overflow="hidden"
           >
             <ProfileImage
-              src="/images/abraham.jpg"
+              src="/images/picture.png"
               alt="Profile image"
               borderRadius="full"
               width="100%"
@@ -106,7 +106,7 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2019</BioYear>
-          Worked At Lepkom Gunadarma as SYS Admin
+          Worked At Lepkom Gunadarma as Technical Assistant
         </BioSection>
         <BioSection>
           <BioYear>2022</BioYear>
@@ -119,7 +119,7 @@ const Home = () => (
           I ♥
         </Heading>
         <Paragraph>
-          Art, Music, and Calisthenic
+          Book, and Calisthenic
         </Paragraph>
       </Section>
 
@@ -177,7 +177,7 @@ const Home = () => (
         <SimpleGrid columns={[1, 2, 2]} gap={6}>
           <GridItem
             href="https://www.youtube.com/watch?v=ytKb4UIfk5E"
-            title="Hasil Karya"
+            title="Video Musik Cover"
             thumbnail={thumbYouTube}
           >
             Binsar Napitu Channel

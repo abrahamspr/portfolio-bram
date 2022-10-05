@@ -55,18 +55,18 @@ const Works = () => (
           <WorkGridItem
             id="rohani"
             thumbnail={thumbRohani}
-            title="Binsar Napitu"
+            title="Musik Video"
           >
             Video Musik Lagu Rohani
           </WorkGridItem>
         </Section>
         <Section delay={0.3}>
-          <WorkGridItem id="vektor" thumbnail={thumbVektor} title="Binsar Napitu">
+          <WorkGridItem id="vektor" thumbnail={thumbVektor} title="Video Edukasi">
             Video Pembelajaran Kelas X SMA
           </WorkGridItem>
         </Section>
         <Section delay={0.3}>
-          <WorkGridItem id="kapasitor" thumbnail={thumbKapasitor} title="Binsar Napitu">
+          <WorkGridItem id="kapasitor" thumbnail={thumbKapasitor} title="Video Edukasi">
             Video Pembelajaran Kelas X SMA
           </WorkGridItem>
         </Section>
